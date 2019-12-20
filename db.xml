@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <animal>
+      <type>Cat</type>
+      <Name>Luna</Name>
+   </animal>
+   <animal>
+      <type>Cat</type>
+      <Name>Molly</Name>
+   </animal>
+   <animal>
+      <type>Dog</type>
+      <Name>Buddy</Name>
+   </animal>
+</root>
